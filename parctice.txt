@@ -2,5 +2,6 @@ this is a practice.
 
 for command line git tutorial
 practice.txt file is edited.
-this is second practice.
+this is second practice.git
 
+git pull last practice.
